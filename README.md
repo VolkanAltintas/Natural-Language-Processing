@@ -1,4 +1,3 @@
-
 # # Natural-Language-Processing
 
 2024-2025 Spring Semester # Natural Language Processing Lecture Notes
@@ -8,8 +7,10 @@
 
 [Python Basics](https://www.w3schools.com/python/python_intro.asp)\
 [Python for Beginners](https://www.python.org/about/gettingstarted)\
+[Python Programlama Dili- YazBel](https://python-istihza.yazbel.com/)\
 [Natural Language Processing – Overviews](https://www.geeksforgeeks.org/natural-language-processing-overview/)
 \
 [Python RegEx](https://www.w3schools.com/python/python_regex.asp)
 \
 [Python Pandas](https://www.datacamp.com/tutorial/pandas)
+
