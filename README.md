@@ -13,4 +13,10 @@
 [Python RegEx](https://www.w3schools.com/python/python_regex.asp)
 \
 [Python Pandas](https://www.datacamp.com/tutorial/pandas)
+\
+[One Hot Encoding](https://www.geeksforgeeks.org/ml-one-hot-encoding-of-datasets-in-python/)
+\
+[Bag of Words](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+\
+[TF/IDF](https://mdurmuss.github.io/tf-idf-nedir/)
 
