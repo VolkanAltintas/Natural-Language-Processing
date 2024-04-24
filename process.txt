@@ -1,0 +1,14 @@
+python -m venv myenv
+.\myenv\Scripts\activate
+deactivate
+
+These commands will also work on windows
+myenv\Scripts\activate
+myenv\Scripts\activate.bat
+.\myenv\Scripts\activate.bat
+
+pip install langchain
+pip install langchain-cli
+pip install dotenv
+pip install chromadb
+pip install openai
