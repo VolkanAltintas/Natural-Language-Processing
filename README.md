@@ -19,4 +19,9 @@
 [Bag of Words](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
 \
 [TF/IDF](https://mdurmuss.github.io/tf-idf-nedir/)
+\
+[PDF Dosyasını RAG Mimarisi ile Chatbot’a Dönüştürme](https://tasarladik.com/pdf-dosyasini-rag-mimarisi-ile-chatbota-donusturme/)
+
+
+
 
